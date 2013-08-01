@@ -1,0 +1,25 @@
+body {
+  .form-item label {
+    color: #444;
+  }
+}
+
+// Display Suite
+// Make admin a little more understandable
+.field-formatter-settings-edit-form {
+  .ft-group {
+    background-color: rgba(#fff, .2);
+  }
+}
+
+.image-widget-data {
+
+}
+
+.imagefield-focus-container {
+  display: none;
+}
+.debug {
+  background-color: rgba(0,255,255,.1); outline: 1px solid rgba(0,255,255,.3);
+
+}

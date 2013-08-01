@@ -1,0 +1,20 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zachharkey\/Sites\/hdspe\/sites\/all\/themes\/sevenplus\/sass\/sevenplus\.scss}line{font-family:\000032}}
+body .form-item label {
+  color: #444;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zachharkey\/Sites\/hdspe\/sites\/all\/themes\/sevenplus\/sass\/sevenplus\.scss}line{font-family:\0000310}}
+.field-formatter-settings-edit-form .ft-group {
+  background-color: rgba(255, 255, 255, 0.2);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zachharkey\/Sites\/hdspe\/sites\/all\/themes\/sevenplus\/sass\/sevenplus\.scss}line{font-family:\0000319}}
+.imagefield-focus-container {
+  display: none;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/zachharkey\/Sites\/hdspe\/sites\/all\/themes\/sevenplus\/sass\/sevenplus\.scss}line{font-family:\0000322}}
+.debug {
+  background-color: rgba(0, 255, 255, 0.1);
+  outline: 1px solid rgba(0, 255, 255, 0.3);
+}
